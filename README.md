@@ -1,1 +1,1 @@
-update of the plan as soon as thed date appears
+update of the plan as soon as the date appears
