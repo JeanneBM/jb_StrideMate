@@ -3,7 +3,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-public class AquaparkPromotionChecker {
+public class Checker {
 
     private static final String PROMOTION_URL = "https://aquapark.wroc.pl/pl/cennik-karnetow-do-aquaparku";
     private static final String PROMOTION_KEYWORD = "4 miesiące w cenie 3";
