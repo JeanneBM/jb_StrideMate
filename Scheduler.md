@@ -1,9 +1,10 @@
 Start date: 10.02.2025
 
-Weeks 1–4: Base Building
-Goal: Build your endurance and establish a solid foundation for the upcoming weeks.
-Frequency: 3-4 runs per week
-Focus: Long, slow runs, easy paces.
+#### Weeks 1–4: Base Building
+
+    Goal: Build your endurance and establish a solid foundation for the upcoming weeks.
+    Frequency: 3-4 runs per week
+    Focus: Long, slow runs, easy paces.
 
 Week 1-2:
 
@@ -25,7 +26,7 @@ Week 3-4:
     Saturday: 6 km long run
     Sunday: Active rest
 
-Weeks 5–8: Building Speed and Distance
+#### Weeks 5–8: Building Speed and Distance
 
     Goal: Start including speed workouts and increase weekly mileage.
     Frequency: 4 runs per week
@@ -51,7 +52,7 @@ Week 7-8:
     Saturday: 8–9 km long run
     Sunday: Active rest
 
-Weeks 9–12: Race Preparation
+#### Weeks 9–12: Race Preparation
 
     Goal: Fine-tune your speed, taper to rest, and prepare mentally for race day.
     Frequency: 4-5 runs per week
