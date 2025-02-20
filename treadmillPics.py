@@ -1,3 +1,5 @@
+## uzywa wbudowanej wiedzy a nie przykladowego obrazu
+
 import os
 import shutil
 from PIL import Image
