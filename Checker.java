@@ -1,4 +1,4 @@
-//przewidywany czas 02.11.; 03.03-17.03; https://aquapark.wroc.pl/pl/promocja-karnet-vip-3-4
+//przewidywany czas 06.06.-20.(przedluzone 23.)06; 21.10.-03.11.; 03.03-17.03; https://aquapark.wroc.pl/pl/promocja-karnet-vip-3-4
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
