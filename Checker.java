@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Checker {
 
-    private static final String PROMOTION_URL = "https://aquapark.wroc.pl/pl/cennik-karnetow-do-aquaparku";
+    private static final String PROMOTION_URL = https://aquapark.wroc.pl/pl/promocja-karnet-vip-3-4";
     private static final String PROMOTION_KEYWORD = "4 miesiące w cenie 3";
 
     public static void main(String[] args) {
