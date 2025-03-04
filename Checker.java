@@ -1,3 +1,4 @@
+//przewidywany czas 02.11.; 03.03-17.03
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
